@@ -254,3 +254,63 @@ margin-bottom: 50px;
     border-radius: 50%;
     box-shadow: 10px 10px 30px rgb(109, 109, 109);
 }
+.banner10{
+    padding-top: 100px;
+    background-color:rgb(224, 228, 241) ;
+    margin-top: 120px;
+    align-items:center ;
+    text-align: center;
+    margin-bottom: 120px;
+    padding-bottom: 120px;
+}
+.contactfrom{
+    gap:0px;
+}
+.contactfrom input{
+    padding:25px 25px 25px 30px ;
+    
+}
+.inputfile{
+    border-color: transparent;
+    border-radius:50px 0px 0px 50px;
+    font-size: 25px;
+    width: 400px;
+    height: 40px;
+    color: #0702111e;
+
+}  
+.sub{
+    border-color: transparent;
+    border-radius:0px 50px 50px 0px;
+    font-size: 25px;
+    height: 94px;
+    width: 200px;
+    background-color: red;
+    color:#FFF;
+    
+}
+footer{
+    background-color: #070211;
+    padding:150px;
+height: 400px;
+}
+.ftitle1{
+    display:flex;
+    justify-content:space-between;
+
+}
+.fdis{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+
+}
+.fimg{
+    
+    margin: 30px auto;
+    text-align: center;
+    
+}
