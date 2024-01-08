@@ -1,0 +1,256 @@
+body{
+    margin:50px 140px 0px 140px;
+}
+header{
+    justify-content: space-around;
+}
+.banner1{
+    
+    height: 600px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(resources/Banner\ Image.png);
+    background-position: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    justify-content: space-around;
+    flex-shrink: 0;
+    
+    
+    
+}
+.banner1title{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+padding-top: 170px;
+margin-bottom: 0px;
+
+}
+.banner1dis{
+    margin-top: 40px;
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+}
+.offtitle{
+    color:red;   
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+margin-top: 120px;
+margin-bottom: 0px;
+}
+.holiday{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500; 
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
+.catagoris{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin-top: 5px;
+}
+.banner2{
+    align-items: center;
+}
+.newyrpic{
+    display:flex;
+    margin: 0px auto;
+}
+.banner3{
+    height: 450px;
+    
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+
+    url(resources/Vectorrr.png);
+    
+    padding: 126px 126px 0px 126px;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+    margin-top: 126px;
+    
+}
+.banner3title {
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+
+
+
+}
+.banner3dis{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+
+.image2{
+    position: absolute;
+    top: 1750px;
+    left:59%;
+}
+.joinbtn{
+    padding:15px 25px;
+    color: #FFF;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 15px;font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.banner4{
+    background-color: rgb(247, 239, 229);
+    height: 482px;
+    margin-top: 120px;
+    padding-top: 100px;
+    
+    
+
+}
+
+.banner4text{
+    
+    color:black;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+
+}.text4{
+    color:#F00;
+}
+.joinbtn2{
+    padding:15px 25px;
+    color: rgb(255, 255, 255);
+    background-color: #F00;
+    border: 2px solid rgba(255, 255, 255, 0);
+    border-radius: 5px;
+    font-size: 15px;font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 46%;
+    margin-top: 80px;
+    
+    
+}
+.banner5{
+    display:flex;
+    gap:24px;
+    margin-top:120px;
+    
+}
+.banner4title{
+    color: #F00;
+
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+}
+.banner4title2{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+}
+.alldis{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.section1{
+    text-align: left;
+    margin-right:80px;
+}
+.section2{
+    border: 10px solid #F00;
+    border-radius: 50%;
+    padding: 20px;
+    
+    
+}
+.year{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
+.section3{
+    margin-left:20px;
+}
+.banner6{
+    text-align: center;
+    margin-top:120px;
+    margin-bottom: 200px;
+}
+.holidaytitle{
+    margin-top:0px;
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+margin-bottom: 50px;
+}
+
+.girl{
+    float: right;
+    width:40%;
+    margin-top: 20px;;
+}
+.box{
+    width: 50%;
+    position: relative;
+    left:80px;
+    bottom: -200px;
+}
+.discount{
+    position:relative;
+    top:-700px;
+    left: 590px;
+    position: ;
+}
+.container1, .container2 {
+    display:flex;
+    gap:30px;
+    
+}
+.container2{
+    margin-top: 30px;;
+}
+.lists{
+    transition: 0.2s;
+    
+}
+.lists:hover{
+    transform: scale(1.1);
+    border-radius: 50%;
+    box-shadow: 10px 10px 30px rgb(109, 109, 109);
+}
